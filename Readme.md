@@ -73,4 +73,3 @@ Data and ML part 2 days
 PyTorch 4 days
 Sep 1st to 6th
 ```
-# Ai-Engg
